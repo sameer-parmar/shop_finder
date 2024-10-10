@@ -104,4 +104,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Sameer Parmar - sameerparmar.sp@gmail.com
 
-Project Link: [https://github.com/sameer-parmar/shop-finder](https://github.com/sameer-parmar/shop-finder)
+Project Link: [https://github.com/sameer-parmar/shop_finder](https://github.com/sameer-parmar/shop_finder)
